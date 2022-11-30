@@ -1,0 +1,14 @@
+G:\PRG\ukol2oop\ukol2oop\obj\Debug\ukol2oop.csprojAssemblyReference.cache
+G:\PRG\ukol2oop\ukol2oop\obj\Debug\ukol2oop.Properties.Resources.resources
+G:\PRG\ukol2oop\ukol2oop\obj\Debug\ukol2oop.csproj.GenerateResource.cache
+G:\PRG\ukol2oop\ukol2oop\obj\Debug\ukol2oop.csproj.CoreCompileInputs.cache
+D:\škola\programovani\ukol2oop\ukol2oop\bin\Debug\ukol2oop.exe.config
+D:\škola\programovani\ukol2oop\ukol2oop\bin\Debug\ukol2oop.exe
+D:\škola\programovani\ukol2oop\ukol2oop\bin\Debug\ukol2oop.pdb
+D:\škola\programovani\ukol2oop\ukol2oop\obj\Debug\ukol2oop.csproj.AssemblyReference.cache
+D:\škola\programovani\ukol2oop\ukol2oop\obj\Debug\ukol2oop.Form1.resources
+D:\škola\programovani\ukol2oop\ukol2oop\obj\Debug\ukol2oop.Properties.Resources.resources
+D:\škola\programovani\ukol2oop\ukol2oop\obj\Debug\ukol2oop.csproj.GenerateResource.cache
+D:\škola\programovani\ukol2oop\ukol2oop\obj\Debug\ukol2oop.csproj.CoreCompileInputs.cache
+D:\škola\programovani\ukol2oop\ukol2oop\obj\Debug\ukol2oop.exe
+D:\škola\programovani\ukol2oop\ukol2oop\obj\Debug\ukol2oop.pdb
