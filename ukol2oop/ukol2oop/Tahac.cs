@@ -13,7 +13,7 @@ namespace ukol2oop
         public Tahac(int nosnostVlecky, string spz, int nosnost) : base(spz, nosnost)
         {
             this.nosnostVlecky = nosnostVlecky;
-            base.nosnost = nosnostVlecky;
+            base.nosnost += nosnostVlecky;
         }
 
 
