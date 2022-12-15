@@ -23,7 +23,7 @@ namespace ukol2oop
             label4.Text = "0 tun";
         }
 
-        NakladniAuto auto;
+        Tahac auto;        
 
         private void button1_Click(object sender, EventArgs e)
         {
@@ -38,8 +38,11 @@ namespace ukol2oop
         }
 
         private void button3_Click_1(object sender, EventArgs e)
-        {            
-            auto = new NakladniAuto(textBox1.Text, (int)numericUpDown3.Value);
+        {                        
+            //tahac = new Tahac((int)numericUpDown4.Value, textBox1.Text, (int)numericUpDown3.Value);
+            //auto = new NakladniAuto(textBox1.Text, (int)numericUpDown3.Value);
+            auto = new Tahac((int)numericUpDown4.Value, textBox1.Text, (int)numericUpDown3.Value);
+
             Button1.Enabled = true;
             Button2.Enabled = true;
             button4.Enabled = true;

@@ -10,19 +10,19 @@ namespace ukol2oop
 {
     class NakladniAuto
     {
-        private string spz;
-        private int nosnost;
-
-        private int hmotnostnakladu =0;
+        protected string spz;
+        protected int nosnost { get; set; }
+        protected int hmotnostnakladu =0;
 
         public int HmotnostNakladu  { get => hmotnostnakladu; }
 
         public NakladniAuto(string spz, int nosnost)
         {
             this.spz = spz;
-            this.nosnost = nosnost;           
-        }
-       
+            this.nosnost = nosnost; 
+           
+        }    
+
         public void NalozNaklad(int naklad)
         {
             if(hmotnostnakladu + naklad > nosnost)
@@ -51,7 +51,7 @@ namespace ukol2oop
 
         public override string ToString()
         {
-            return "Nákladní auto "+spz+" má nosnost " + nosnost+"t a má nalozeno + " + HmotnostNakladu+ " tun";
+            return "Nákladní auto a vlecka "+spz+" maji nosnost " + nosnost+"t a maji nalozeno " + HmotnostNakladu+ " tun";
         }
 
     }
